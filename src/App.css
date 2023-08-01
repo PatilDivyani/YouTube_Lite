@@ -1,0 +1,19 @@
+.searchBar input{
+    width: 30%;
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+.searchBar button{
+  background-color: red;
+  color: white;
+  height: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+.videoDisplay{
+  display: flex;
+}
